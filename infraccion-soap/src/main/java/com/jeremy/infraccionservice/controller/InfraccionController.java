@@ -18,7 +18,7 @@ import com.jeremy.infraccionservice.entity.Infraccion;
 import com.jeremy.infraccionservice.service.InfraccionService;
 
 
-
+//http://localhost:8085/infracciones
 @RestController
 @RequestMapping("/infracciones")
 public class InfraccionController {
